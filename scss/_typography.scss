@@ -1,0 +1,12 @@
+h1 {
+    font-weight: 700;
+    // Responsive teksti-suurus, kus ta küll läheb suuremaks aga ei lähe alla 2rem'i
+    font-size: calc(4vw + 2rem);
+    color: $heading-color;
+    margin: 2rem 0;
+}
+
+p {
+    font: 400 1.2rem/2rem Lato;
+    margin: 1rem 0;
+}
